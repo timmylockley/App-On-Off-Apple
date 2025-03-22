@@ -21,4 +21,4 @@ AppSwitcher is an iOS application that allows users to toggle the operation of o
    Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/AppSwitcher.git
+   git clone https://github.com/timmylockley/AppSwitcher.git
